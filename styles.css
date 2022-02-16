@@ -17,3 +17,8 @@ img {
 a {
     text-decoration: none;
 }
+.align {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
